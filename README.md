@@ -3,6 +3,7 @@ In this project we propose an implementaion of the structral graph clustering us
 @author Wissem Inoubli <inoubliwissem@gmail.com>
 
 ## Required software and libraries
+
 -Java 8
 -SBT
 Spark 2.4 or higher
